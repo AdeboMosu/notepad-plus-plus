@@ -11,6 +11,8 @@ natural languages. Running in the MS Windows environment, its use is governed by
 
 See the [Notepad++ official site](https://notepad-plus-plus.org/) for more information.
 
+> **Fork note:** This repository is a personal fork for plugin development research.
+
 
 Notepad++ GPG Release Key
 -------------------------
@@ -47,4 +49,3 @@ Contribution
 Contributions are welcome. Be mindful of our [Contribution Rules](CONTRIBUTING.md) to increase the likelihood of your contribution getting accepted.
 
 [Notepad++ Contributors](https://github.com/notepad-plus-plus/notepad-plus-plus/graphs/contributors)
-
